@@ -1,0 +1,10 @@
+{
+    "name": "flexpress/component-acf",
+    "description": "Advanced Custom Fields helper for WordPress",
+    "autoload": {
+        "psr-4": {
+            "FlexPress\\Components\\ACF\\": "src/FlexPress/Components/ACF/"
+        }
+    }
+
+}
